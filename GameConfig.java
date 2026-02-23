@@ -15,8 +15,8 @@ import java.util.Random;
 class GameConfig{
     private final int MIN = 1;
     private final int MAX = 100;
-    private final int MAX_ATTEMPTS = 8;
-    private final int MAX_HINTS = 4;
+    private final int MAX_ATTEMPTS = 7;
+    private final int MAX_HINTS = 3;
 
     int targetNumber;
 
