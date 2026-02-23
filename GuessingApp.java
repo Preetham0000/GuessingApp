@@ -10,7 +10,7 @@
  * 4. Stop when game ends
  * 
  * @author Developer
- * @version 2.0
+ * @version 3.0
  *
  */
 
